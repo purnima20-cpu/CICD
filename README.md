@@ -11,5 +11,7 @@ DevOps: GitHub Actions for continuous integration and deployment.
 Security: Focused on testing for common web vulnerabilities.
 
 🛠️ Setup & Usage
- 1.Clone the repo:
- git clone https://github.com/purnima20-cpu/CICD.git
+
+  1.Clone the repo:
+ 
+     git clone https://github.com/purnima20-cpu/CICD.git
