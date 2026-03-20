@@ -15,3 +15,7 @@ Security: Focused on testing for common web vulnerabilities.
   1.Clone the repo:
  
      git clone https://github.com/purnima20-cpu/CICD.git
+
+  2.Install dependencies:
+
+    npm install
