@@ -21,3 +21,7 @@ Security: Focused on testing for common web vulnerabilities.
   2.Install dependencies:
 
     npm install
+
+  3.Run Tests:
+
+    npm test
