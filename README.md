@@ -1,17 +1,11 @@
-🚀 Project Overview
-Yo project bhitra tala ka main folders haru chhan:
+CICD Practice Project
+A hands-on repository for practicing Software Quality Assurance and CI/CD pipelines. This project features a sample web application integrated with automated testing and security workflows.
 
-app/: Main application source code (Node.js/Express).
+🚀 Key Features
+Web App: Node.js/Express-based application.
 
-tests/: Automation testing scripts (Integration, Unit, and E2E tests).
+Automation: Unit, Integration, and E2E tests using Playwright and Jest.
 
-.github/workflows/: GitHub Actions ko YAML files haru pipeline ko lagi.
+DevOps: GitHub Actions for continuous integration and deployment.
 
-🛠️ Tech Stack
-Language: JavaScript (Node.js)
-
-Testing: Playwright, Jest
-
-CI/CD: GitHub Actions
-
-Security: Vulnerability testing practice
+Security: Focused on testing for common web vulnerabilities.
